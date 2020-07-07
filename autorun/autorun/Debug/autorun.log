@@ -1,0 +1,13 @@
+﻿  regedit.cpp
+D:\code_new\VS Studio\autorun\autorun\autorun.h(380,37): warning C4101: “DateSize”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\autorun.h(379,53): warning C4101: “Type”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\autorun.h(379,22): warning C4101: “NameSize”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\autorun.h(414,9): warning C4101: “KeySize”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\autorun.h(617,17): warning C4101: “actitem”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\regedit.cpp(129,10): warning C4101: “objectname”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\regedit.cpp(196,8): warning C4101: “type”: 未引用的局部变量
+D:\code_new\VS Studio\autorun\autorun\autorun.h(370): warning C4715: “get_publisher”: 不是所有的控件路径都返回值
+D:\code_new\VS Studio\autorun\autorun\autorun.h(258): warning C4715: “get_timestamp”: 不是所有的控件路径都返回值
+D:\code_new\VS Studio\autorun\autorun\autorun.h(239): warning C4172: 返回局部变量或临时变量的地址: timesmp
+D:\code_new\VS Studio\autorun\autorun\regedit.cpp(10): warning C4172: 返回局部变量或临时变量的地址: trans
+  autorun.vcxproj -> D:\code_new\VS Studio\autorun\Debug\autorun.exe
